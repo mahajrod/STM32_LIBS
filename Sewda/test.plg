@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Keil\Projects\Sewda\test.uvproj
+Project File Date:  10/22/2012
+
+<h2>Output:</h2>
+Build target 'Pinboard_tst'
+linking...
+Program Size: Code=20488 RO-data=1788 RW-data=272 ZI-data=15896  
+FromELF: creating hex file...
+"test.axf" - 0 Error(s), 0 Warning(s).

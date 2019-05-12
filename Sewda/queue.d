@@ -1,0 +1,12 @@
+queue.o: ..\FreeRTOS\queue.c
+queue.o: C:\Keil\ARM\RV31\Inc\stdlib.h
+queue.o: C:\Keil\ARM\RV31\Inc\string.h
+queue.o: ..\FreeRTOS\include\FreeRTOS.h
+queue.o: C:\Keil\ARM\RV31\Inc\stddef.h
+queue.o: ..\FreeRTOS\include\projdefs.h
+queue.o: ..\FreeRTOS\FreeRTOSConfig.h
+queue.o: ..\FreeRTOS\include\portable.h
+queue.o: ..\FreeRTOS\portmacro.h
+queue.o: ..\FreeRTOS\include\mpu_wrappers.h
+queue.o: ..\FreeRTOS\include\task.h
+queue.o: ..\FreeRTOS\include\list.h

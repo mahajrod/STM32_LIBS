@@ -1,0 +1,12 @@
+timers.o: ..\FreeRTOS\timers.c
+timers.o: ..\FreeRTOS\include\FreeRTOS.h
+timers.o: C:\Keil\ARM\RV31\Inc\stddef.h
+timers.o: ..\FreeRTOS\include\projdefs.h
+timers.o: ..\FreeRTOS\FreeRTOSConfig.h
+timers.o: ..\FreeRTOS\include\portable.h
+timers.o: ..\FreeRTOS\portmacro.h
+timers.o: ..\FreeRTOS\include\mpu_wrappers.h
+timers.o: ..\FreeRTOS\include\task.h
+timers.o: ..\FreeRTOS\include\list.h
+timers.o: ..\FreeRTOS\include\queue.h
+timers.o: ..\FreeRTOS\include\timers.h

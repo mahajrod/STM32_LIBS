@@ -1,0 +1,9 @@
+sdcard.o: ..\SDcard\SDcard.c
+sdcard.o: ..\SDcard\SDcard.h
+sdcard.o: ..\test\main.h
+sdcard.o: ..\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h
+sdcard.o: ..\CMSIS\CoreSupport\core_cm3.h
+sdcard.o: C:\Keil\ARM\RV31\Inc\stdint.h
+sdcard.o: ..\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+sdcard.o: ..\Macro\mcu_gpio.h
+sdcard.o: ..\Macro\mcu_rcc.h

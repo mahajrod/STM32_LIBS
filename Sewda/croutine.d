@@ -1,0 +1,11 @@
+croutine.o: ..\FreeRTOS\croutine.c
+croutine.o: ..\FreeRTOS\include\FreeRTOS.h
+croutine.o: C:\Keil\ARM\RV31\Inc\stddef.h
+croutine.o: ..\FreeRTOS\include\projdefs.h
+croutine.o: ..\FreeRTOS\FreeRTOSConfig.h
+croutine.o: ..\FreeRTOS\include\portable.h
+croutine.o: ..\FreeRTOS\portmacro.h
+croutine.o: ..\FreeRTOS\include\mpu_wrappers.h
+croutine.o: ..\FreeRTOS\include\task.h
+croutine.o: ..\FreeRTOS\include\list.h
+croutine.o: ..\FreeRTOS\include\croutine.h

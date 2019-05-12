@@ -1,0 +1,10 @@
+port.o: ..\FreeRTOS\port.c
+port.o: ..\FreeRTOS\include\FreeRTOS.h
+port.o: C:\Keil\ARM\RV31\Inc\stddef.h
+port.o: ..\FreeRTOS\include\projdefs.h
+port.o: ..\FreeRTOS\FreeRTOSConfig.h
+port.o: ..\FreeRTOS\include\portable.h
+port.o: ..\FreeRTOS\portmacro.h
+port.o: ..\FreeRTOS\include\mpu_wrappers.h
+port.o: ..\FreeRTOS\include\task.h
+port.o: ..\FreeRTOS\include\list.h

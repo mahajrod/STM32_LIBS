@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CoreSupport -I..\CMSIS\DeviceSupport\ST\STM32F10x -I..\test -I..\LCD16x2 -I..\SDcard -I..\FreeRTOS -I..\FreeRTOS\include -I..\MPL115A1 -I..\ULN2003 -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -o "uln2003.o" --omf_browse "uln2003.crf" --depend "uln2003.d" "..\ULN2003\ULN2003.c"

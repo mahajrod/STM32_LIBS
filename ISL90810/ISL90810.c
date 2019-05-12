@@ -1,0 +1,5 @@
+#define 	ISL90810_READ				0x51
+#define		ISL90810_WRITE				0x50
+#define		ISL90810_REG_ADRESS_BYTE	0x00
+
+

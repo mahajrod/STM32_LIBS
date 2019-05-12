@@ -1,0 +1,9 @@
+bipolar_st_motor.o: ..\Bipolar_St_Motor\Bipolar_st_motor.c
+bipolar_st_motor.o: ..\Bipolar_St_Motor\Bipolar_st_motor.h
+bipolar_st_motor.o: ..\test\main.h
+bipolar_st_motor.o: ..\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h
+bipolar_st_motor.o: ..\CMSIS\CoreSupport\core_cm3.h
+bipolar_st_motor.o: C:\Keil\ARM\RV31\Inc\stdint.h
+bipolar_st_motor.o: ..\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+bipolar_st_motor.o: ..\Macro\mcu_gpio.h
+bipolar_st_motor.o: ..\Macro\mcu_rcc.h

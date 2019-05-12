@@ -1,0 +1,11 @@
+heap_2.o: ..\FreeRTOS\heap_2.c
+heap_2.o: C:\Keil\ARM\RV31\Inc\stdlib.h
+heap_2.o: ..\FreeRTOS\include\FreeRTOS.h
+heap_2.o: C:\Keil\ARM\RV31\Inc\stddef.h
+heap_2.o: ..\FreeRTOS\include\projdefs.h
+heap_2.o: ..\FreeRTOS\FreeRTOSConfig.h
+heap_2.o: ..\FreeRTOS\include\portable.h
+heap_2.o: ..\FreeRTOS\portmacro.h
+heap_2.o: ..\FreeRTOS\include\mpu_wrappers.h
+heap_2.o: ..\FreeRTOS\include\task.h
+heap_2.o: ..\FreeRTOS\include\list.h

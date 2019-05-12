@@ -1,0 +1,9 @@
+sht21.o: ..\___SHT21\SHT21.c
+sht21.o: ..\___SHT21\SHT21.h
+sht21.o: ..\test\main.h
+sht21.o: ..\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h
+sht21.o: ..\CMSIS\CoreSupport\core_cm3.h
+sht21.o: C:\Keil\ARM\RV31\Inc\stdint.h
+sht21.o: ..\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+sht21.o: ..\Macro\mcu_gpio.h
+sht21.o: ..\Macro\mcu_rcc.h

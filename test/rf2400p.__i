@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CoreSupport -I..\CMSIS\DeviceSupport\ST\STM32F10x -I..\test -I..\LCD16x2 -I..\SDcard -I..\FreeRTOS -I..\FreeRTOS\include -I..\___SHT21 -I..\__RF2400P -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -o "rf2400p.o" --omf_browse "rf2400p.crf" --depend "rf2400p.d" "..\__RF2400P\RF2400P.c"

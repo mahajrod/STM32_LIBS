@@ -1,0 +1,23 @@
+*** Creating Trace Output File 'Minorcontrol.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_stm32f10x_ld_vl.o"'
+### List of Objects: adding '"core_cm3.o"'
+### List of Objects: adding '"system_stm32f10x.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"isl90810.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "startup_stm32f10x_ld_vl.o" "core_cm3.o" "system_stm32f10x.o" "main.o" "isl90810.o" --strict --scatter "Minorcontrol.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Minorcontrol.map" -o Minorcontrol.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'Minorcontrol.axf'
+### ADS-LD Command File: 'Minorcontrol.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'Minorcontrol.lnp', Handle=0x000005C4
+### Writing '.lnp' file
+### ADS-LD Command file 'Minorcontrol.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

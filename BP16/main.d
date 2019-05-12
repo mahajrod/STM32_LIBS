@@ -1,0 +1,12 @@
+main.o: main.c
+main.o: main.h
+main.o: C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h
+main.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+main.o: C:\Keil\ARM\RV31\Inc\stdint.h
+main.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+main.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+main.o: C:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
+main.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+main.o: ..\Macro\mcu_gpio.h
+main.o: ..\Macro\mcu_rcc.h
+main.o: ..\General\general_pin_definitions.h

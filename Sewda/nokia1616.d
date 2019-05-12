@@ -1,0 +1,12 @@
+nokia1616.o: ..\Nokia1616\Nokia1616.c
+nokia1616.o: ..\Nokia1616\Nokia1616.h
+nokia1616.o: ..\test\main.h
+nokia1616.o: ..\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h
+nokia1616.o: ..\CMSIS\CoreSupport\core_cm3.h
+nokia1616.o: C:\Keil\ARM\RV31\Inc\stdint.h
+nokia1616.o: ..\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+nokia1616.o: ..\Macro\mcu_gpio.h
+nokia1616.o: ..\Macro\mcu_rcc.h
+nokia1616.o: ..\Nokia1616\font.h
+nokia1616.o: ..\Nokia1616\icons8x8.c
+nokia1616.o: ..\Nokia1616\font5x8.c

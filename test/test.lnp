@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "startup_stm32f10x_md.o" "core_cm3.o" "system_stm32f10x.o" "main.o" "nokia1616.o" "lcd16x2.o" "sdcard.o" "tasks.o" "heap_2.o" "port.o" "timers.o" "queue.o" "croutine.o" "list.o" --strict --scatter "test.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\test.map" -o test.axf

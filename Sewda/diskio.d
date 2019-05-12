@@ -1,0 +1,11 @@
+diskio.o: ..\FatFs\src\diskio.c
+diskio.o: ..\SDcard\SDcard.h
+diskio.o: ..\test\main.h
+diskio.o: ..\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h
+diskio.o: ..\CMSIS\CoreSupport\core_cm3.h
+diskio.o: C:\Keil\ARM\RV31\Inc\stdint.h
+diskio.o: ..\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+diskio.o: ..\Macro\mcu_gpio.h
+diskio.o: ..\Macro\mcu_rcc.h
+diskio.o: ..\FatFs\src\diskio.h
+diskio.o: ..\FatFs\src\integer.h
